@@ -39,3 +39,9 @@ git push origin "${VERSION}"
 
 ## License
 The original [jsongenerator](https://github.com/jimblackler/jsongenerator) is licensed under [Apache 2.0](LICENSE).
+
+## CHANGELOG
+
+| Version | Description |
+| ------- | ----------- |
+| 1.0.0   | Publish to JitPack. |
